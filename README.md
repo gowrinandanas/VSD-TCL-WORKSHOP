@@ -155,7 +155,15 @@ This prevents failures during later stages of synthesis.
 
 ### Screenshots
 
-_Add screenshots here_
+<img width="940" height="324" alt="image" src="https://github.com/user-attachments/assets/f581fc43-c558-41a7-8319-48a94518230e" />
+
+<img width="940" height="664" alt="image" src="https://github.com/user-attachments/assets/b5ebd8c6-190e-42f9-9701-2643fd217a2d" />
+
+<img width="940" height="323" alt="image" src="https://github.com/user-attachments/assets/46a854dc-f233-4341-830b-ea82388d35bf" />
+
+<img width="940" height="323" alt="image" src="https://github.com/user-attachments/assets/2501eb13-4af6-40cf-9e89-c73da41656fe" />
+<img width="940" height="300" alt="image" src="https://github.com/user-attachments/assets/ab7989fd-019c-43c4-9f91-b740eb8748e9" />
+<img width="940" height="572" alt="image" src="https://github.com/user-attachments/assets/b6b0455b-9304-4f56-a015-a8b33d292077" />
 
 ---
 
@@ -260,7 +268,11 @@ before starting synthesis.
 
 ### Screenshots
 
-_Add screenshots here_
+<img width="940" height="468" alt="image" src="https://github.com/user-attachments/assets/9e5bde17-a751-4238-a83c-5b95f02cf8be" />
+
+<img width="940" height="474" alt="image" src="https://github.com/user-attachments/assets/36164971-1f9a-48ca-8376-6743556d808c" />
+<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/0e09d3db-90c1-4275-af65-2c43634d6859" />
+<img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/1698d992-4ed0-4c2b-a7d6-d57954e53c18" />
 
 ---
 
@@ -383,7 +395,9 @@ Removes all whitespace characters.
 
 ### Screenshots
 
-_Add screenshots here_
+<img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/0ec30ee8-3f9f-4b43-90aa-d8d9d4e1893d" />
+
+<img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/b02ab289-6005-410d-9deb-c316a6f8943c" />
 
 ---
 
@@ -460,7 +474,19 @@ Yosys automatically performs:
 
 ### Screenshots
 
-_Add screenshots here_
+<img width="895" height="644" alt="image" src="https://github.com/user-attachments/assets/8cf412f3-5b8f-4a2f-86dd-5e58ab37a311" />
+
+<img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/97996bac-babc-48d3-9758-42cfaa03a5f7" />
+<img width="940" height="874" alt="image" src="https://github.com/user-attachments/assets/0a46084b-309e-4d2c-8ed4-748d27da7a4b" />
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/e80ed080-cd39-42bf-984f-a7a8f486ba49" />
+<img width="940" height="947" alt="image" src="https://github.com/user-attachments/assets/c5a8b917-ce81-46d9-9cc6-8ef1c6e73a94" />
+<img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/d73966a4-0419-4aab-bb55-aa04cf46308a" />
+<img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/7941ac8f-3031-4fa1-8fb7-6afe43c82521" />
+<img width="940" height="227" alt="image" src="https://github.com/user-attachments/assets/70ffe9ac-714d-456f-86f8-d015b8136552" />
+<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/8dda11e1-633e-43b6-a650-f815769b7af2" />
+<img width="940" height="557" alt="image" src="https://github.com/user-attachments/assets/32145103-1957-42c5-94ca-c257109d0088" />
+
+<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/e33b1aa1-8bd2-4bbd-8926-3c71502880e1" />
 
 ---
 
@@ -550,7 +576,16 @@ One or more modules are missing.
 
 ### Screenshots
 
-_Add screenshots here_
+<img width="1093" height="289" alt="image" src="https://github.com/user-attachments/assets/3fd50130-9d3b-4603-85b3-aa101ccb52a3" />
+<img width="1093" height="634" alt="image" src="https://github.com/user-attachments/assets/dce22a2b-d7d6-4d7e-adcb-2e9e4bcc7297" />
+<img width="1093" height="366" alt="image" src="https://github.com/user-attachments/assets/16b773cc-6604-4287-a85d-f593c4025f1d" />
+<img width="831" height="322" alt="image" src="https://github.com/user-attachments/assets/af13247d-9531-4fc0-bf53-f7b4df9df8ea" />
+<img width="1093" height="293" alt="image" src="https://github.com/user-attachments/assets/e305e38e-73e2-4543-a986-7cb4696f1af8" />
+<img width="1093" height="204" alt="image" src="https://github.com/user-attachments/assets/29b1bdb5-48f2-4d46-b2dc-18b6015328a3" />
+<img width="919" height="311" alt="image" src="https://github.com/user-attachments/assets/eebdc91b-eeef-404d-8412-af0740c50061" />
+<img width="1093" height="113" alt="image" src="https://github.com/user-attachments/assets/8a31fc7f-53ff-4f77-a5b4-622d834a7bf1" />
+<img width="949" height="1117" alt="image" src="https://github.com/user-attachments/assets/e691223f-edaf-4738-8043-79fce8b5735e" />
+<img width="1093" height="389" alt="image" src="https://github.com/user-attachments/assets/504dee83-2acc-41b7-a2a7-b0131f31702c" />
 
 ---
 
